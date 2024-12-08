@@ -1,0 +1,34 @@
+/* ==========================================================================           
+ *
+ *    v6.0 Update
+ *
+ * ========================================================================== */
+
+.cost-right-side {
+    float: right;
+    margin-right: 1rem;
+}
+
+.cost-sticky {
+    position: sticky;
+    top: 10rem;
+}
+
+.dashboard-4-column,
+.dashboard-5-column {
+    display: flex;
+}
+
+.dashboard-4-column > * {
+    width: 25%;
+}
+
+.dashboard-5-column > * {
+    width: 20%;
+}
+
+.dashboard-center-text-finance {
+    position: absolute;
+    top: 38%;
+    left: 39%;
+}

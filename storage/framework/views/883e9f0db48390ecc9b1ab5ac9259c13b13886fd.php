@@ -1,0 +1,2 @@
+<span class="fs-11 text-muted pl-3"><i class="fa-sharp fa-solid fa-bolt-lightning mr-2 text-primary"></i><?php echo e(__('Your Balance is')); ?> <span class="font-weight-semibold" id="balance-number"> <?php echo e($balance); ?></span> <span id="model-name"></span> <?php echo e(__('Words')); ?></span>
+<?php /**PATH C:\xampp\htdocs\a2chub project full source code backup\public_html\resources\views/components/balance-template.blade.php ENDPATH**/ ?>
